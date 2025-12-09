@@ -18,7 +18,9 @@ Soy Ián Pereyra, estudiante de programación, <br>apasionado por la creatividad
 # 👾 Proyectos en los que participé:
 
 https://github.com/AgustinRN6/SpaGP18
+
 https://github.com/AgustinRN6/TranservalProyecto-GP18
+
 https://github.com/nerina99/ProyectoFinal_Web
 
 
